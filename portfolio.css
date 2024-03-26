@@ -1,0 +1,85 @@
+.img {
+    height: 10px;
+}
+nav {
+    justify-content: space-between;
+    line-height: 70px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: row;
+}
+.menu {
+    margin-left: 40px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+.GINA {
+    color: black;
+    margin-right: 50px;
+    font-size: 20px;
+    letter-spacing: 2px;
+    cursor: pointer;
+    text-transform: uppercase;
+    margin-left: 40px;
+    
+}
+.tet {
+    background-image: url(G.jpg);
+    padding-bottom: 70px;
+}
+.tt {
+    height: 300px;
+}
+.tt {
+    margin-left: 100px;
+    margin-right: 20px;
+}
+.rr {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+.mm {
+    margin-left: 50px;
+}
+.bb {
+    border: 1px solid;
+    margin: 10px;
+    background-color: black;
+    color: white;
+}
+.bu{
+    background-color: black;
+    color: white;
+}
+.se{
+    margin-top: 400px;
+    margin-right: 200px;
+}
+.ig {
+    height: 20px;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    margin-left: 300px;
+}
+.sub{
+    height: 150px;
+    width: 150px;
+    border: 1px solid;
+    padding: 20px;
+    margin: 20px;
+    background-color: aliceblue;
+    border-color: aliceblue;
+    border-radius: 20px;
+}
+img{
+    height: 10px;
+}
